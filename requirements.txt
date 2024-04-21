@@ -1,0 +1,6 @@
+tensorflow-recommenders
+tensorflow-datasets
+scann
+pandas
+numpy
+tensorflow
